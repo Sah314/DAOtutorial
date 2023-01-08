@@ -315,7 +315,7 @@ setWalletConnected(true);
       </Head>
       <div className ={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Sahil Crypto!!
+          <h1 className={styles.title}>Welcome to My Crypto!!
           </h1>
           <div className={styles.description}>Welcome to the DAO!!
           </div>
